@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Marks">
+        <item>Значок Mersedes-Benz|mersedes.jpg</item>
+        <item>Значок BMV|bmv.jpg</item>
+        <item>Значок Volkswagen|volkswagen.jpg</item>
+        <item>Значок Scoda|skoda.jpg</item>
+        <item>Значок Ferrari|ferrari.jpg</item>
+        <item>Значок Lexus|lexus.jpg</item>
+        <item>Значок Toyota|toyota.jpg</item>
+        <item>Значок Nissan|nissan.jpg</item>
+        <item>Значок Peugeot|peugeot.jpg</item>
+        <item>Значок Mitsubishi|mitsubisi.png</item>
+    </string-array>
+    <string-array name="Mersedes_Benz">
+        <item>Значок Mersedes-Benz|mersedes.jpg</item>
+        <item>Mersedes S класс|mersedes_s_class.jpg</item>
+        <item>Mersedes E класс|mersedes_e_class.jpg</item>
+        <item>Mersedes C класс|mersedes_c_class.jpg</item>
+    </string-array>
+    <string-array name="BMW">
+        <item>Значок BMV|bmv.jpg</item>
+        <item>BMV 7 серия|bmv7.jpg</item>
+        <item>BMV 5 серия|bmv5.jpg</item>
+        <item>BMV 3 серия |bmv3.jpg</item>
+    </string-array>
+    <string-array name="Volkswagen">
+        <item>Значок Volkswagen|volkswagen.jpg</item>
+        <item>Volkswagen Polo Sedan|polo_sedan.jpg</item>
+        <item>Volkswagen Passat|passat.jpg</item>
+        <item>Volkswagen Tiguan|tiguan.jpg</item>
+    </string-array>
+    <string-array name="Skoda">
+        <item>Значок Scoda|skoda.jpg</item>
+        <item>Scoda Octavia|octavia.jpg</item>
+        <item>Scoda Superb|superb.jpg</item>
+        <item>Scoda Kodiaq|kodiaq.jpg</item>
+    </string-array>
+    <string-array name="Ferrari">
+        <item>Значок Ferrari|ferrari.jpg</item>
+        <item>Ferrari GTS|GTS.jpg</item>
+    </string-array>
+    <string-array name="Lexus">
+        <item>Значок Lexus|lexus.jpg</item>
+        <item>Lexus RX|RX.jpg</item>
+        <item>Lexus LX 750|LX.jpg</item>
+        <item>Lexus ES|ES.jpg</item>
+    </string-array>
+    <string-array name="Toyota">
+        <item>Значок Toyota|toyota.jpg</item>
+        <item>Toyota Land Cruiser 300|LandCruiser.jpg</item>
+        <item>Toyota Crown|crown.jpg</item>
+        <item>Toyota Camry|camry.jpg</item>
+    </string-array>
+    <string-array name="Nissan">
+        <item>Значок Nissan|nissan.jpg</item>
+        <item>Nissan Maxima|maxima.jpg</item>
+        <item>Nissan Skyline|skyline.jpg</item>
+        <item>Nissan Sentra|sentra.jpg</item>
+    </string-array>
+    <string-array name="Peugeot">
+        <item>Значок Peugeot|peugeot.jpg</item>
+        <item>Peugeot 607|607.jpeg</item>
+        <item>Peugeot 308|308.jpeg</item>
+        <item>Peugeot 407|407.jpeg</item>
+    </string-array>
+    <string-array name="Mitsubishi">
+        <item>Значок Mitsubishi|mitsubisi.png</item>
+        <item>Mitsubishi Galant|Galant.jpg</item>
+        <item>Mitsubishi Pajero|pajero.jpg</item>
+        <item>Mitsubishi Lancer|lancer.jpg</item>
+    </string-array>
+</resources>

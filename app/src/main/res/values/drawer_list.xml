@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Marks</item>
+        <item>Mersedes-Benz</item>
+        <item>BMV</item>
+        <item>Volkswagen</item>
+        <item>Skoda</item>
+        <item>Ferrari</item>
+        <item>Lexus</item>
+        <item>Toyоta</item>
+        <item>Nissan</item>
+        <item>Peugeot</item>
+        <item>Mitsubishi</item>
+    </string-array>
+</resources>
