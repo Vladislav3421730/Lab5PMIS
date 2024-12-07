@@ -2,13 +2,13 @@
 <resources>
     <string-array name="drawer_list">
         <item>Marks</item>
-        <item>Mersedes-Benz</item>
-        <item>BMV</item>
+        <item>Mersedes_Benz</item>
+        <item>BMW</item>
         <item>Volkswagen</item>
         <item>Skoda</item>
         <item>Ferrari</item>
         <item>Lexus</item>
-        <item>Toyоta</item>
+        <item>Toyota</item>
         <item>Nissan</item>
         <item>Peugeot</item>
         <item>Mitsubishi</item>

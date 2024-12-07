@@ -54,7 +54,7 @@ fun Body(onEvent: (DrawerEvents) -> Unit) {
                 colors = CardDefaults.cardColors(containerColor = Color.LightGray)
             ) {
                 Text(
-                    text = if (title == "Marks") "Марка автомобилей" else title,
+                    text = chooseTitle(title),
                     modifier = Modifier
                     .fillMaxSize()
                     .clickable {
